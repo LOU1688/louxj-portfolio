@@ -1,0 +1,11 @@
+
+baseURL = "https://louxj.com/"
+languageCode = "zh-cn"
+title = "Jack Lou Photography"
+theme = "louxj-hugo-gallery"
+defaultContentLanguage = "zh"
+enableRobotsTXT = true
+
+[params]
+  description = "黑白胶片 · Leica MP · 暗房印相"
+  author = "Jack Lou"
