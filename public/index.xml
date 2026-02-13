@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jack Lou Photography</title>
+    <link>https://louxj.com/</link>
+    <description>Recent content on Jack Lou Photography</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <atom:link href="https://louxj.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于我</title>
+      <link>https://louxj.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://louxj.com/about/</guid>
+      <description>&lt;p&gt;黑白胶片摄影师，使用 Leica MP，专注于街头、人像与暗房银盐印相。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>联系</title>
+      <link>https://louxj.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://louxj.com/contact/</guid>
+      <description>&lt;p&gt;联系方式稍后补充。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
